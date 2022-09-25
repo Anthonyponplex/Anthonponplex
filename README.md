@@ -10,8 +10,7 @@ I enjoy finding solutions to issues and interacting with others who have similar
 
 #### Visit my portfolio website and LinkedIn profile for more about me.
 
-<a href=":https://mayakitubosunportfolio.netlify.app/">Portfolio</a>&nbsp;<a href="https://www.linkedin.com/in/tubosun-mayaki-b-eng-gmnse-4b8b8978
-">LinkedIn</a>
+<a href=":https://mayakitubosunportfolio.netlify.app/">Portfolio</a>&nbsp;<a href="https://www.linkedin.com/in/tubosun-mayaki-4b8b8978/">LinkedIn</a>
 
 <br />
 
