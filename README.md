@@ -2,7 +2,7 @@
 
 [![Visitor](https://visitor-badge.laobi.icu/badge?page_id=Anthonyponplex.Anthonyponplex)](https://github.com/Anthonyponplex) [![GitHub followers](https://img.shields.io/github/followers/Anthonyponplex.svg?style=social&label=Follow)](https://github.com/Anthonyponplex?tab=followers)
 
-<p>I am an innovative optimized solution seeker, team player, and result-driven Software Engineer with three years of software development experience. professional dexterity in JavaScript, TypeScript React, NodeJs, Express, GraphQL, and a plethora of database management platforms such as SQL, MongoDB, PostgreSQL, and Sequelize.
+<p>I am an innovative optimized solution seeker, team player, and result-driven Software Engineer with three years of software development experience. professional dexterity in JavaScript, TypeScript, React, NodeJs, Express, GraphQL, and a plethora of database management platforms such as SQL, MongoDB, PostgreSQL, and SQLite.
 </p>
 <p>
 I enjoy finding solutions to issues and interacting with others who have similar aspirations.
@@ -41,7 +41,7 @@ I enjoy finding solutions to issues and interacting with others who have similar
 ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)&nbsp;
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
 ![Postgres](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Sequelize](ttps://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white)&nbsp;
+<!-- ![Sequelize](ttps://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white)&nbsp; -->
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)&nbsp;
 ![Apollo Graphql](https://img.shields.io/badge/Apollo%20GraphQL-311C87?&style=for-the-badge&logo=Apollo%20GraphQL&logoColor=white)
 
