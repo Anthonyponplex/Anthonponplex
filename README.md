@@ -2,7 +2,7 @@
 
 [![Visitor](https://visitor-badge.laobi.icu/badge?page_id=Anthonyponplex.Anthonyponplex)](https://github.com/Anthonyponplex) [![GitHub followers](https://img.shields.io/github/followers/Anthonyponplex.svg?style=social&label=Follow)](https://github.com/Anthonyponplex?tab=followers)
 
-<p>I am an innovative optimized solution seeker, team player, and result-driven Software Engineer with two years of software development experience. professional dexterity in JavaScript, TypeScript React, NodeJs, Express, GraphQL, and a plethora of database management platforms such as SQL, MongoDB, PostgreSQL, and Sequelize.
+<p>I am an innovative optimized solution seeker, team player, and result-driven Software Engineer with three years of software development experience. professional dexterity in JavaScript, TypeScript React, NodeJs, Express, GraphQL, and a plethora of database management platforms such as SQL, MongoDB, PostgreSQL, and Sequelize.
 </p>
 <p>
 I enjoy finding solutions to issues and interacting with others who have similar aspirations.
